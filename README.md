@@ -1,12 +1,17 @@
 # Hello Solana!
 
 This repository contains all the source code written during the learning process 
-of [Solana Development Course.](https://www.soldev.app/course)
+of [Solana Development Course.](https://solana.com/developers/courses)
 
-Thie course is broken down into the following :
+> NOTE: The entire course structure underwent certain changes and certain courses
+were deleted / removed on the request of the community. This document needs to be 
+cleaned up after careful review. A lot of the previous content's links are still 
+accessible here ;)
+
+This course is broken down into the following :
 ### dApp Development
 
-1. Introduction to Cryptography and Solana Clients
+1. [Introduction to Cryptography and Solana Clients](https://solana.com/developers/courses/intro-to-solana)
     1. Cryptography Fundamentals (Create and load keypairs)
     2. Read Data from the network (Connect to Solana and check account balances)
     3. Write Date to the network (Make transactions and use Explorer)
@@ -16,11 +21,11 @@ Thie course is broken down into the following :
     7. Deserialize program data (Build a React frontend to show movie reviews)
     8. Page, Order, and Filter program data (Adding paging, ordering and searching for reviews)
 
-2. Client Interaction with Common Solana Programs
+2. [Client Interaction with Common Solana Programs](https://solana.com/developers/courses/tokens-and-nfts)
     1. Create tokens with the Token Program (Mint, transfer and burn tokens)
     2. Create Solana NFTs with Metaplex (Mint NFTs, update their metadata, and associate with collection)
 
-### On-Chain Program Development
+### On-Chain Program Development [Course Link](https://solana.com/developers/courses/onchain-development)
 
 1. Basic Solana Program Development
     1. Hello World (Create and Deploy a 'hello-world' on-chain program)
@@ -66,7 +71,7 @@ Thie course is broken down into the following :
     5. Generalized State Compression (Build a Notes program using State compression)
 
 ### Solana Mobile Development
-1. Solana Mobile Development
+1. [Solana Mobile Development](https://solana.com/developers/courses/mobile)
     1. Introduction to Solana Mobile (Build Android counter dApp with React Native)
     2. Exploring Mobile Wallet Adapter (Builda  simpe MMA-enabled mobile wallet)
     3. Build Solana Mobiel dApps with Expo (Mints NFTs from photos)
